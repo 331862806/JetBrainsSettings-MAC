@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="name" />
+      <item value="Gu Lu Tabs Head" />
       <item value="local" />
       <item value="phone Class" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="foldOriginal" value="true" />
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
